@@ -1,0 +1,4 @@
+img/weapon/sniper_hover.png
+300
+61
+20

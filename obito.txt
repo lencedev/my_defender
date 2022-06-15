@@ -1,0 +1,4 @@
+img/weapon/obito_hover.png
+100
+200
+0

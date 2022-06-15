@@ -1,0 +1,4 @@
+img/weapon/gun_animation.png
+150
+50
+10

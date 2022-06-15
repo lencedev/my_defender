@@ -1,0 +1,4 @@
+img/weapon/vent_hover.png
+50
+39
+0
